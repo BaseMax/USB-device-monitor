@@ -1,4 +1,7 @@
 # USB Device Monitor
+#Some Screenshots of it in action 
+![usb_monitor](https://github.com/user-attachments/assets/09ce3a7f-0682-47e4-b6bd-1311e4b541e4)
+
 
 A cross-platform Python script for monitoring USB device plug-in and removal events on Linux, Windows, and macOS.
 
